@@ -1,0 +1,26 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.colorLayer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #1865f2;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/typeGeneralStateOrStyleInput.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/typeGeneralStateOrStyleInput.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px 2px;
+  mask-position: 0px 2px;
+  -webkit-mask-size: 24px 20px;
+  mask-size: 24px 20px;
+}

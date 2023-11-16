@@ -1,0 +1,215 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #80956d;
+  overflow: hidden;
+}
+.darkBackground {
+  position: absolute;
+  left: -405px;
+  top: -238px;
+  width: 2250px;
+  height: 1500px;
+  background-image:/* webpackIgnore: true */ url('/assets/darkBackground.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.loginButton {
+  position: absolute;
+  left: 510px;
+  top: 641px;
+  width: 417px;
+  height: 82px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.loginButton2 {
+  position: absolute;
+  left: 510px;
+  top: 512px;
+  width: 417px;
+  height: 49px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.loginButton3 {
+  position: absolute;
+  left: 510px;
+  top: 576px;
+  width: 417px;
+  height: 49px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.loginButton4 {
+  position: absolute;
+  left: 570px;
+  top: 745px;
+  width: 297px;
+  height: 43px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.login {
+  color: #232d14;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 510px;
+  top: 659px;
+  width: 417px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.createAccount {
+  color: #232d14;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 570px;
+  top: 754px;
+  width: 297px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.PleaseEnterYourUsername {
+  color: #fff;
+  font-size: 24px;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 490px;
+  top: 448px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.plantPal {
+  color: #fff;
+  font-size: 128px;
+  font-weight: bold;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 452px;
+  top: 272px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.welcomeTo {
+  color: #fff;
+  font-size: 48px;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 590px;
+  top: 224px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.subtract {
+  position: absolute;
+  left: 128px;
+  top: 108px;
+  width: 1184px;
+  height: 808px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.frame138 {
+  position: absolute;
+  left: 527px;
+  top: 589px;
+  width: 384px;
+  height: min-content;
+  align-items: center;
+  gap: 12px;
+}
+.iconArea1 {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.textArea {
+  color: #232d14;
+  font-size: 16px;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 314px;
+  height: 21px;
+  justify-content: center;
+  flex-direction: column;
+}
+.iconArea2 {
+  width: 23px;
+  height: 21px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.frame139 {
+  position: absolute;
+  left: 527px;
+  top: 525px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 12px;
+}
+.iconArea12 {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.textArea2 {
+  color: #232d14;
+  font-size: 16px;
+  font-family: Livvic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 244px;
+  height: 21px;
+  justify-content: center;
+  flex-direction: column;
+}
