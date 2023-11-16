@@ -73,6 +73,29 @@ String notesInput = JOptionPane.showInputDialog(null,
 newPlant.setNotes(notesInput);
 ```
 
+## Future Plans
+Originally conceived as a personal project, PlantPal has become a dynamic endeavor that reflects my growing interest in plants. As my passion for both plants and technology continues to evolve, I have envisioned several exciting developments for PlantPal.
+
+1. **Comprehensive Tracking Software:**
+   - Transform PlantPal into a comprehensive tracking software, combining my love for plants with coding and technology.
+
+2. **Integration of Additional Devices:**
+   - Implement features for tracking moisture levels and lux meters, providing users with a more comprehensive plant care experience.
+
+3. **Web Interface Integration:**
+   - Bridge the gap between PlantPal and my existing web interface, creating a seamless and unified user experience.
+
+4. **Enhanced User Interface:**
+   - Improve the user interface for a more intuitive and engaging interaction, ensuring a positive experience for plant enthusiasts.
+
+5. **Community Features:**
+   - Explore the possibility of incorporating community-driven features, enabling users to share insights, tips, and experiences with fellow plant enthusiasts.
+
+6. **Cross-Platform Compatibility:**
+   - Develop PlantPal to be compatible across multiple platforms, extending its accessibility and usability.
+
+These planned developments align with my overarching goal of creating a robust and versatile tool that caters to the evolving needs of plant enthusiasts, combining the realms of plants, coding, and technology. As PlantPal continues to grow, I am excited about the potential it holds for enriching the plant care experience and fostering a community of like-minded individuals.
+
 ## Acknowledgments
 
 Special thanks to UC Davis for providing the internship opportunity and inspiring the development of PlantPal.
