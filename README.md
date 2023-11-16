@@ -74,7 +74,7 @@ newPlant.setNotes(notesInput);
 ```
 
 ## Future Plans
-Originally conceived as a personal project, PlantPal has become a dynamic endeavor that reflects my growing interest in plants. As my passion for both plants and technology continues to evolve, I have envisioned several exciting developments for PlantPal.
+Originally conceived as a personal project, PlantPal has become a dynamic endeavor that reflects my growing interest in plants. As my passion for both plants and technology continues to evolve, I have envisioned developments for PlantPal.
 
 1. **Comprehensive Tracking Software:**
    - Transform PlantPal into a comprehensive tracking software, combining my love for plants with coding and technology.
